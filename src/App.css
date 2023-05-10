@@ -1,0 +1,10 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.login{
+    color: red;
+}
