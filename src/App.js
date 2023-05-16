@@ -12,6 +12,16 @@ function App() {
     })
   },[]);  
 
+  useEffect(()=>{
+   
+  },[]);  
+
+  // git checkout -b develop
+  // git commit -m "develop"
+  // git push origin develop
+  // git fetch
+  // git checkout main =>main branch texapoxvelu hamar
+  // git commit -m "test"
   return (
     <div className = 'App'>
       {
